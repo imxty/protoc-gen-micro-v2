@@ -1,4 +1,4 @@
-module github.com/imxty/protoc-gen-micro-v2
+module github.com/imxty/protoc-gen-micro-v2/v2
 
 go 1.16
 
